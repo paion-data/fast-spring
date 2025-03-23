@@ -3,7 +3,7 @@ initializr:
     kotlin:
       default-version: "1.9.22"
   group-id:
-    value: org.acme
+    value: com.paiondata
   dependencies:
     - name: Web
       content:

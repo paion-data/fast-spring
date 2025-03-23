@@ -198,7 +198,7 @@ Contributors of this module expect the following beans to be available in the
 
 * The `InitializrMetadata` instance to use
 * Optionally, a `MetadataBuildItemResolver` that can resolve various build items (such as
-dependencies and BOMs based on their id in the metadata
+dependencies and BOMs based on their id in the metadata)
 
 If you are using a parent context, it is advised to configure those there as you should
 not register them every time a new project is generated:
