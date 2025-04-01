@@ -72,7 +72,7 @@ You can easily run your own instance. The `initializr-web` modules uses Spring B
 so when it is added to a project, it will trigger the necessary auto-configuration to
 deploy the service.
 
-The `initializr-service-sample` showcases a basic custom instance with dedicated metadata.
+The link:./initializr-service-sample[initializr-service-sample] showcases a basic custom instance with dedicated metadata.
 
 
 [[build]]
